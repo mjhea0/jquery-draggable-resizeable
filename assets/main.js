@@ -1,8 +1,8 @@
 $(function() {
-  $('#drag-me').draggable( {
+  $('.drag-me').draggable( {
     containment: '#containment',
     cursor: 'move',
     snap: '#content'
   });
-  $('#resize-me').resizable();
+  $('.resize-me').resizable();
 })
