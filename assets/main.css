@@ -5,15 +5,8 @@ img {
   -webkit-border-radius: 100px; 
   border-radius: 100px;
   border: 5px solid #FCB614;
-  max-height: 120px;
-  max-width: 120px;
+  height: 120px;
+  width: 120px;
   position:absolute;
 }
 .head {text-align: center;}
-#resize-me {
-  max-width: 120px;
-  max-height: 120px;
-  position:absolute;
-  top: 250px;
-  left: 500px;
-}
